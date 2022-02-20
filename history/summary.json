@@ -4,35 +4,39 @@
     "url": "$PORTFOLIO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 935,
-    "timeWeek": 769,
-    "timeMonth": 664,
-    "timeYear": 664,
-    "dailyMinutesDown": {}
+    "time": 658,
+    "timeDay": 398,
+    "timeWeek": 797,
+    "timeMonth": 658,
+    "timeYear": 658,
+    "dailyMinutesDown": {
+      "2022-02-20": 1
+    }
   },
   {
     "name": "Self Study",
     "url": "$SELF_STUDY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "self-study",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 480,
-    "timeWeek": 622,
-    "timeMonth": 543,
-    "timeYear": 543,
-    "dailyMinutesDown": {}
+    "time": 544,
+    "timeDay": 346,
+    "timeWeek": 614,
+    "timeMonth": 544,
+    "timeYear": 544,
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   }
 ]
