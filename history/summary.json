@@ -4,19 +4,19 @@
     "url": "$PORTFOLIO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 398,
-    "timeWeek": 797,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 657,
+    "timeDay": 525,
+    "timeWeek": 779,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2022-02-20": 1
+      "2022-02-20": 28
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SELF_STUDY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "self-study",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 346,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 549,
+    "timeDay": 478,
     "timeWeek": 614,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2022-02-20": 0
+      "2022-02-20": 28
     }
   }
 ]
