@@ -10,11 +10,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 680,
-    "timeDay": 579,
-    "timeWeek": 706,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "time": 664,
+    "timeDay": 334,
+    "timeWeek": 643,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2022-02-20": 28
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "self-study",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 564,
-    "timeDay": 399,
-    "timeWeek": 598,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 557,
+    "timeDay": 408,
+    "timeWeek": 554,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2022-02-20": 28
     }
