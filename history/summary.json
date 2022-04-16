@@ -4,18 +4,19 @@
     "url": "$PORTFOLIO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 623,
-    "timeDay": 941,
-    "timeWeek": 684,
-    "timeMonth": 614,
-    "timeYear": 623,
+    "time": 825,
+    "timeDay": 8099,
+    "timeWeek": 2551,
+    "timeMonth": 1082,
+    "timeYear": 825,
     "dailyMinutesDown": {
+      "2022-04-16": 0,
       "2022-02-20": 28
     }
   },
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 569,
-    "timeDay": 554,
-    "timeWeek": 548,
-    "timeMonth": 556,
-    "timeYear": 569,
+    "time": 603,
+    "timeDay": 3043,
+    "timeWeek": 915,
+    "timeMonth": 635,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2022-02-20": 28
     }
