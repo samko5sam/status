@@ -1,7 +1,7 @@
 url: $PORTFOLIO
-status: up
-code: 200
-responseTime: 508
-lastUpdated: 2022-07-13T23:08:10.433Z
+status: down
+code: 404
+responseTime: 19154
+lastUpdated: 2022-07-14T16:40:18.308Z
 startTime: Thu Feb 10 2022 08:57:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
