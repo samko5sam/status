@@ -7,6 +7,8 @@ sites:
     url: $PORTFOLIO
   - name: Self Study
     url: $SELF_STUDY
+  - name: sk5shop
+    url: https://sk5shop.web.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
