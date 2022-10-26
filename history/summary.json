@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 732,
-    "timeDay": 503,
-    "timeWeek": 573,
-    "timeMonth": 620,
-    "timeYear": 732,
+    "time": 731,
+    "timeDay": 577,
+    "timeWeek": 583,
+    "timeMonth": 621,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2022-09-03": 92,
       "2022-07-29": 15,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 540,
-    "timeDay": 419,
-    "timeWeek": 460,
-    "timeMonth": 496,
+    "timeDay": 472,
+    "timeWeek": 468,
+    "timeMonth": 497,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2022-09-03": 92,
@@ -48,5 +48,23 @@
       "2022-04-21": 30,
       "2022-02-20": 28
     }
+  },
+  {
+    "name": "sk5shop",
+    "url": "https://sk5shop.web.app",
+    "icon": "https://icons.duckduckgo.com/ip3/sk5shop.web.app.ico",
+    "slug": "sk5shop",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 410,
+    "timeDay": 410,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410,
+    "dailyMinutesDown": {}
   }
 ]
