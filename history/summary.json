@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 618,
-    "timeDay": 696,
-    "timeWeek": 744,
-    "timeMonth": 656,
+    "time": 619,
+    "timeDay": 644,
+    "timeWeek": 742,
+    "timeMonth": 652,
     "timeYear": 611,
-    "dailyMinutesDown": {
-      "2023-07-17": 502
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Self Study",
@@ -31,13 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 556,
-    "timeDay": 514,
-    "timeWeek": 579,
-    "timeMonth": 519,
-    "timeYear": 556,
+    "timeDay": 663,
+    "timeWeek": 613,
+    "timeMonth": 531,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2023-08-27": 20,
-      "2023-07-17": 502
+      "2023-08-27": 20
     }
   },
   {
@@ -52,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 143,
-    "timeWeek": 122,
-    "timeMonth": 93,
-    "timeYear": 95,
+    "timeDay": 147,
+    "timeWeek": 130,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   }
 ]
