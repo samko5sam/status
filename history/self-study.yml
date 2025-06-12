@@ -1,7 +1,7 @@
 url: $SELF_STUDY
-status: down
-code: 500
-responseTime: 5519
-lastUpdated: 2025-06-12T18:17:21.441Z
+status: up
+code: 200
+responseTime: 106
+lastUpdated: 2025-06-12T18:45:13.775Z
 startTime: 2022-02-10T08:57:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
